@@ -1,7 +1,7 @@
 # Hi, I'm Oksana Luchko 👋
 ### QA Engineer · Manual Testing · AI-driven QA workflows
 
-📍 Busk, Ukraine &nbsp;|&nbsp; ✉️ Sysen8474@gmail.com &nbsp;|&nbsp; 🌐 [CV Website](https://oksanaluchko.github.io/CV_QA-Manual_Oksana_Luchko/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/oksana-luchko)
+📍 Busk, Ukraine &nbsp;|&nbsp; ✉️ Sysen8474@gmail.com &nbsp;|&nbsp; 🌐 [CV Website](https://oksanaluchko.github.io/CV_QA-Manual_Oksana_Luchko/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/oksana-luchko-3a5b2b289/)
 
 ---
 
@@ -53,3 +53,4 @@ Background in management and legal education strengthens analytical thinking and
 ## 📄 CV
 
 👉 **[View my full CV](https://oksanaluchko.github.io/CV_QA-Manual_Oksana_Luchko/)**
+
